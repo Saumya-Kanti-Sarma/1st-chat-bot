@@ -1,0 +1,5 @@
+WHAT I WANT TO DO IN THIS PROJECT?
+  1. Understand how open-ai API works
+  2. how to get custom results for different environments like chatting with customers, getting response on pvt datas, help in specific parts etc
+  3. how to go through past conversations in the same session?
+  4. what is Langchain, why to use it and how to use it?
